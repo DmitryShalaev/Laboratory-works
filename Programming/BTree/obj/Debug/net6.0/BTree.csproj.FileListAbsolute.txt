@@ -1,0 +1,15 @@
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\BTree.exe
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\BTree.deps.json
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\BTree.runtimeconfig.json
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\BTree.dll
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\ref\BTree.dll
+C:\CODE\Программирование\BTree\bin\Debug\net6.0\BTree.pdb
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.csproj.AssemblyReference.cache
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.AssemblyInfoInputs.cache
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.AssemblyInfo.cs
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.csproj.CoreCompileInputs.cache
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.dll
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\ref\BTree.dll
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.pdb
+C:\CODE\Программирование\BTree\obj\Debug\net6.0\BTree.genruntimeconfig.cache

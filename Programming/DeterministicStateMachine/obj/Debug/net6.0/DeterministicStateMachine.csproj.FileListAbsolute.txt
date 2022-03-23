@@ -1,0 +1,15 @@
+C:\CODE\Программирование\DeterministicStateMachine\bin\Debug\net6.0\DeterministicStateMachine.exe
+C:\CODE\Программирование\DeterministicStateMachine\bin\Debug\net6.0\DeterministicStateMachine.deps.json
+C:\CODE\Программирование\DeterministicStateMachine\bin\Debug\net6.0\DeterministicStateMachine.runtimeconfig.json
+C:\CODE\Программирование\DeterministicStateMachine\bin\Debug\net6.0\DeterministicStateMachine.dll
+C:\CODE\Программирование\DeterministicStateMachine\bin\Debug\net6.0\DeterministicStateMachine.pdb
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.csproj.AssemblyReference.cache
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.AssemblyInfoInputs.cache
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.AssemblyInfo.cs
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.csproj.CoreCompileInputs.cache
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.dll
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\refint\DeterministicStateMachine.dll
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.pdb
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\DeterministicStateMachine.genruntimeconfig.cache
+C:\CODE\Программирование\DeterministicStateMachine\obj\Debug\net6.0\ref\DeterministicStateMachine.dll
