@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\Программирование\\DeterministicStateMachine\\DeterministicStateMachine.csproj": {}
+    "C:\\CODE\\Study\\Programming\\DeterministicStateMachine\\DeterministicStateMachine.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\Программирование\\DeterministicStateMachine\\DeterministicStateMachine.csproj": {
+    "C:\\CODE\\Study\\Programming\\DeterministicStateMachine\\DeterministicStateMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\Программирование\\DeterministicStateMachine\\DeterministicStateMachine.csproj",
+        "projectUniqueName": "C:\\CODE\\Study\\Programming\\DeterministicStateMachine\\DeterministicStateMachine.csproj",
         "projectName": "DeterministicStateMachine",
-        "projectPath": "C:\\CODE\\Программирование\\DeterministicStateMachine\\DeterministicStateMachine.csproj",
+        "projectPath": "C:\\CODE\\Study\\Programming\\DeterministicStateMachine\\DeterministicStateMachine.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\Программирование\\DeterministicStateMachine\\obj\\",
+        "outputPath": "C:\\CODE\\Study\\Programming\\DeterministicStateMachine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

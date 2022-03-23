@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\Программирование\\BTree\\BTree.csproj": {}
+    "C:\\CODE\\Study\\Programming\\BTree\\BTree.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\Программирование\\BTree\\BTree.csproj": {
+    "C:\\CODE\\Study\\Programming\\BTree\\BTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\Программирование\\BTree\\BTree.csproj",
+        "projectUniqueName": "C:\\CODE\\Study\\Programming\\BTree\\BTree.csproj",
         "projectName": "BTree",
-        "projectPath": "C:\\CODE\\Программирование\\BTree\\BTree.csproj",
+        "projectPath": "C:\\CODE\\Study\\Programming\\BTree\\BTree.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\Программирование\\BTree\\obj\\",
+        "outputPath": "C:\\CODE\\Study\\Programming\\BTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
