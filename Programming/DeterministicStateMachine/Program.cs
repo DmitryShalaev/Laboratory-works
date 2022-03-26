@@ -24,8 +24,9 @@
 	public bool Run(string str) => Run(_startState, str);
 
 	private bool Run(string state, string str) {
-		if(str.Length == 0 && state == _endState) return true;
-		if(str.Length == 0) return false;
+		if(str.Length == 0)
+			if(state == _endState) return true;
+			else return false;
 
 		try {
 			string _nextState = _states[new(state, str[0])];
@@ -41,6 +42,6 @@
 class Program {
 	static void Main() {
 		DSM dSM = new();
-		Console.WriteLine(dSM.Run("10010"));
+		Console.WriteLine(dSM.Run("101"));
 	}
 }
