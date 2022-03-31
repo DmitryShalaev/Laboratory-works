@@ -43,5 +43,6 @@ class Program {
 	static void Main() {
 		DSM dSM = new();
 		Console.WriteLine(dSM.Run("101"));
+		
 	}
 }
