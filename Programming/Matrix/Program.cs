@@ -37,9 +37,8 @@
 	public override string ToString() {
 		string str = "";
 		for(int i = 0; i < Matr.GetLength(0); i++) {
-			for(int j = 0; j < Matr.GetLength(1); j++) {
+			for(int j = 0; j < Matr.GetLength(1); j++)
 				str += Matr[i, j] + " ";
-			}
 			str += "\n";
 		}
 		return str;
