@@ -19,15 +19,15 @@
 				for(int i = 0; i < _vertexCount; i++) {
 					if(in_use[i] == false && _G[_Start, i] > 0) {
 						int tmp = MR(i);
-						if(tmp != int.MaxValue) {
+						if(tmp != int.MaxValue)
 							Price = Math.Min(Price, tmp + _G[_Start, i]);
-						}
 
 						in_use[i] = false;
 					}
 				}
 				return Price;
 			}
+
 			return MR(Start);
 		}
 	}
