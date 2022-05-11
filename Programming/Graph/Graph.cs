@@ -1,7 +1,7 @@
 ﻿namespace Graph {
 	partial class Graph {
 		private readonly int [,] _G;
-		
+
 		private readonly int _vertexCount;
 
 		public Graph(int[,] G) {
