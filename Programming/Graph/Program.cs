@@ -14,13 +14,17 @@
 
 			Graph graph = new(G);
 
-			//Graph.PrintMinSpanningTree(graph.MinSpanningTree(5));
+			Graph.PrintMinSpanningTree(graph.MinSpanningTree(2));
 
-			//Console.WriteLine(graph.MinRoad(2, 6));
+			Console.WriteLine(graph.MinRoad(2, 7));
 
 			Console.WriteLine("DijkstraPath:\t" + graph.DijkstraPath(2, 7));
 
 			Console.WriteLine("FloydPath:\t" + graph.FloydPath(2, 7));
+
+			foreach(var item in graph.Bridges()) {
+				Console.WriteLine(item);
+			}
 		}
 	}
 }
