@@ -36,7 +36,7 @@
 		}
 
 		public string DijkstraPath(int Start, int End) {
-			if(DijkstraAncestors == null) Dijkstra(Start, End);
+			Dijkstra(Start, End);
 			string str ="";
 
 			int index = End;

@@ -17,11 +17,10 @@
 			//Graph.PrintMinSpanningTree(graph.MinSpanningTree(5));
 
 			//Console.WriteLine(graph.MinRoad(2, 6));
-			
-			//Console.WriteLine(graph.DijkstraPath(7, 5));
-			
-			Console.WriteLine(graph.Floyd(2, 7));
-		
+
+			Console.WriteLine("DijkstraPath:\t" + graph.DijkstraPath(2, 7));
+
+			Console.WriteLine("FloydPath:\t" + graph.FloydPath(2, 7));
 		}
 	}
 }
