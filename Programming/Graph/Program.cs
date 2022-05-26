@@ -1,36 +1,35 @@
-﻿namespace Graph {
-	class Program {
-		static void Main() {
-			int[,] G = {{0,1,2,3,0,0,0,0,0},
-						{1,0,2,2,1,4,0,0,2},
-						{2,2,0,0,0,0,0,0,0},
-						{3,2,0,0,0,0,0,0,3},
-						{0,1,0,0,0,3,1,0,1},
-						{0,4,0,0,3,0,0,0,0},
-						{0,0,0,0,1,0,0,2,4},
-						{0,0,0,0,0,0,2,0,0},
-						{0,2,0,3,1,0,4,0,0},
+﻿namespace Graph;
+internal class Program {
+	private static void Main() {
+		int[,] G = {{0,0,0,0,0,0},
+						{0,0,1,0,0,0},
+						{0,0,0,0,0,1},
+						{1,0,0,0,1,0},
+						{1,0,0,0,0,0},
+						{0,1,0,1,0,0}
 						};
-			try {
+		try {
 
-				Graph graph = new(G);
+			Graph graph = new(G);
+			/*
+							Graph.PrintMinSpanningTree(graph.MinSpanningTree(0));
 
-				Graph.PrintMinSpanningTree(graph.MinSpanningTree(2));
+							Console.WriteLine(graph.MinRoad(0, 5));
 
-				Console.WriteLine(graph.MinRoad(2, 7));
+							Console.WriteLine("DijkstraPath:\t" + graph.DijkstraPath(0, 5));
 
-				Console.WriteLine("DijkstraPath:\t" + graph.DijkstraPath(2, 7));
+							Console.WriteLine("FloydPath:\t" + graph.FloydPath(0, 5));
 
-				Console.WriteLine("FloydPath:\t" + graph.FloydPath(2, 7));
+							foreach(var item in graph.Bridges()) {
+								Console.WriteLine(item);
+							}*/
 
-				foreach(var item in graph.Bridges()) {
-					Console.WriteLine(item);
-				}
+			//Console.WriteLine("MaxFlow:\t" + graph.MaxFlow(0, 6));
 
-			} catch(Exception e) {
-				Console.WriteLine(e.Message);
-			}
-			
+			graph.StronglyConnected();
+
+		} catch(Exception e) {
+			Console.WriteLine(e.Message);
 		}
 	}
 }
